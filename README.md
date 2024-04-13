@@ -1,4 +1,4 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Hello%20There!&fontSize=90" /></p>
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Hello%20There!&fontSize=90&animation=twinkling" /></p>
 
 <h1>About me</h1>
 <div>
@@ -29,7 +29,13 @@
 </div>
 
 <h1>Stats</h1>
-![Snake animation](https://github.com/wolfyre243/wolfyre243/blob/output/github-contribution-grid-snake.svg)
+<p> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=wolfyre243&show_icons=true&theme=dark" height="230" /> </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wolfyre243&layout=donut&theme=dark" height="230"/> </a>
+</p>
+
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&section=footer" /></p>
+
 
 
 
