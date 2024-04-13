@@ -1,4 +1,11 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=Wolfyre243&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=250&section=header&text=Hello%20There!&fontSize=90" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Wolfyre243&label=Profile%20views&color=0e75b6&style=flat" alt="Wolfyre243" /> </p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Wolfyre243&theme=onedark" alt="Wolfyre243" /></a> </p>
+
+
+
 
 
 <!--
