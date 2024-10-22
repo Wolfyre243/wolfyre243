@@ -2,7 +2,6 @@
 
 <h1>About me</h1>
 <div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Wolfyre243&label=Profile%20views&color=0e75b6&style=flat" alt="Wolfyre243" /> </p>
   <a href="https://www.instagram.com/full_of.junk?igsh=MXIwdHY1OGN1aXRyZQ=="> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" alt="Insta" width="30" height="30"/> </a>
 </div>
 
