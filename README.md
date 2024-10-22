@@ -9,6 +9,8 @@
 <p>Welcome to my GitHub! There definitely will be more developed projects displayed here in the future, but for now feel free to look around.</p>
 <p>Please remember me when I'm gone...</p>
 
+<p>GMC core 24/7</p>
+
 <h3>Trophies</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Wolfyre243&theme=onedark" alt="Wolfyre243" /></a> </p>
 
