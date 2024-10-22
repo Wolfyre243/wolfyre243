@@ -6,7 +6,8 @@
   <a href="https://www.instagram.com/full_of.junk?igsh=MXIwdHY1OGN1aXRyZQ=="> <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-256.png" alt="Insta" width="30" height="30"/> </a>
 </div>
 
-<p>I'm a student studying at Singapore Polytechnic, and this is my GitHub! I have a few projects displayed here, and there definitely will be more developed ones in the future.</p>
+<p>Welcome to my GitHub! There definitely will be more developed projects displayed here in the future, but for now feel free to look around.</p>
+<p>Please remember me when I'm gone...</p>
 
 <h3>Trophies</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Wolfyre243&theme=onedark" alt="Wolfyre243" /></a> </p>
